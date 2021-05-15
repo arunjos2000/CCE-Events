@@ -1,7 +1,6 @@
 # CCE-Events
 College Events Site
 athanne
-#Main
 
 
-
+Arun Kundan
